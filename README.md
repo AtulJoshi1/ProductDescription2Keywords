@@ -1,4 +1,5 @@
 Most widely used approaches use topic modelling i.e. LDA or NMF for finding keywords from a large corpus of documents. But, to get more meaningful, descriptive, precise and fine-grained keywords corresponding to a product description or review document, a little more specific approach is needed. 
+Dataset Used: https://www.kaggle.com/ak47bluestack/amazonphonedataset
 # ProductDescription2Keywords
 Extracting Search Engine Appropriate Keywords and Key Selling Points from a Product's description in E-Commerce Websites<br>
 **Problem Statement:  Extract from mobile phone description dataset**
